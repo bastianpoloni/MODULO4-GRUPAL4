@@ -1,3 +1,5 @@
+# Modulo 4 - Grupal 4
+
 # URL API
 1. https://home.openweathermap.org/users/sign_in
 1. Registrase seleccionar la opción API
@@ -10,3 +12,5 @@
 ## Ejemplo
 
 1. http://api.openweathermap.org/data/2.5/weather?q=santiago,CL&appid=e0c15b8e93223e5c828fbf46a5d20e5f
+
+## Antes de utilizar, ejecutar el comando npm install node para instalar las dependencias del proyecto
